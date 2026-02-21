@@ -1,7 +1,5 @@
 <'Control, Modeling, Design, and Simulation of Modern HVAC Systems'>
 
-[Program link](https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub/blob/main/megatrends/Sustainability%20and%20Renewable%20Energy.md)
-
 [Project description link](https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub/tree/main/projects/Control%2C%20Modeling%2C%20Design%2C%20and%20Simulation%20of%20Modern%20HVAC%20Systems)
 
 
