@@ -1,4 +1,4 @@
-# Solution to MATLAB and Simulink Challenge project <195> <'Control, Modeling, Design, and Simulation of Modern HVAC Systems'>
+<'Control, Modeling, Design, and Simulation of Modern HVAC Systems'>
 
 [Program link](https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub/blob/main/megatrends/Sustainability%20and%20Renewable%20Energy.md)
 
